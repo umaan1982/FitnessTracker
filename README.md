@@ -1,4 +1,4 @@
- Spring Boot Web Application with H2 Database, JDBC, and CRUD Functionality
+# Spring Boot Web Application with H2 Database, JDBC, and CRUD Functionality
 
 This Spring Boot web application serves as a base-level project to demonstrate the compatibility and ease of use of Spring Boot with an H2 in-memory database, JDBC API, and built-in validators. Maven is used for managing the project's dependencies.
 
