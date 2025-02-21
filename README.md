@@ -14,13 +14,6 @@ This Spring Boot web application serves as a base-level project to demonstrate t
 - Java 8 or higher
 - Maven 3.6.0 or higher
 
-## H2 Console
-
-The H2 database console can be accessed at [http://localhost:8080/h2-console](http://localhost:8080/h2-console) with the following credentials:
-- **JDBC URL:** `jdbc:h2:mem:testdb`
-- **Username:** sa
-- **Password:** password
-
 ## Validation
 
 Validation is implemented using the `javax.validation.constraints` package. The entity fields are annotated to ensure data integrity, such as:
